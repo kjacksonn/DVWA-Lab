@@ -1,8 +1,3 @@
-Here’s **exactly what you should copy and paste into your `README.md`** for the DVWA lab GitHub repo — already formatted and ready to go:
-
----
-
-````markdown
 # 🔐 DVWA Lab – Vulnerability Testing on Kali Linux
 
 This project demonstrates how to set up and test common web vulnerabilities using **DVWA (Damn Vulnerable Web Application)** on **Kali Linux**. It was built as a personal cybersecurity lab for practicing hands-on exploitation in a safe environment.
