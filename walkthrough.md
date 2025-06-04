@@ -63,19 +63,17 @@ The web app runs system commands by concatenating user input directly into a she
 ### 🔹 Method:
 
 * Username: `admin`
-* Tried multiple common passwords manually or using **BurpSuite Intruder** with a small wordlist.
+* Tried multiple common passwords manually. Correct Password: **Password**. Also tried "1234, admin, etc..."
 
 ### ✅ Result:
 
 After trying multiple guesses, the correct password was discovered, and the app redirected to a protected page.
-
 ---
 
 ## 🧠 Tools Used
 
 * 🐧 Kali Linux (local VM)
 * 🌐 Firefox / Chromium
-* 🧰 BurpSuite (Community Edition)
 * 🐍 Custom payloads via browser inputs
 
 ---
